@@ -18,3 +18,11 @@ cout << "hellow world!";
 ```java
 
 system.out.println("love java more than cpp");
+
+```
+
+```ruby
+
+puts("something");
+
+```
